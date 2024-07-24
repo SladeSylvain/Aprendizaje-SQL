@@ -1,12 +1,12 @@
 # Aprendizaje-SQL
 
-<h1>Dejo registro de mi aprendizaje en SQL de manera autodidacta</h1>
+<h1 align="center">Dejo registro de mi aprendizaje en SQL de manera autodidacta</h1>
 
 
-<p style="color:red">Siguiendo tutoriales he llegado hasta aqui</p>
-<p>cada dia dejare un registro de mis avances diarios en este pequeño mundo del conocimiento en SQL</p>
+<p >Siguiendo tutoriales he llegado hasta aqui</p>
+<p>Dejare un registro de mis avances diarios en este pequeño mundo del conocimiento en SQL</p>
 
-<h2><strong>DIA 1</strong></h2>
+<h2 align="center"><strong>DIA 1</strong></h2>
 
 <ul>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/01%20select.sql">Select</a></li>
@@ -30,7 +30,7 @@
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/07%20limit.sql">Limit</a></li>
 </ul>
 
-<h2><strong>DIA 2</strong></h2>
+<h2 align="center"><strong>DIA 2</strong></h2>
 
 
 <ul>
