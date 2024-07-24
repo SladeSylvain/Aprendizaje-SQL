@@ -1,4 +1,4 @@
-### APRENDIZAJE SQL
+<h2 align="center">APRENDIZAJE SQL</h2>
 
 <h1 align="center">Dejo registro de mi aprendizaje en SQL de manera autodidacta</h1>
 
