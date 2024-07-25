@@ -30,3 +30,13 @@
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/14%20between.sql">Between</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/15%20alias.sql">Alias</a></li>
 </ul>
+
+<h2 align="center"><strong>DIA 3</strong></h2>
+
+
+<ul>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/16%20group%20by.sql">Group by</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/17%20having.sql">Having</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/18%20case.sql">Case</a></li>
+
+</ul>
