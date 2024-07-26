@@ -38,5 +38,16 @@
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/16%20group%20by.sql">Group by</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/17%20having.sql">Having</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/18%20case.sql">Case</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/19%20ifnull.sql">Ifnull</a></li>
+
+</ul>
+
+<h2 align="center"><strong>DIA 4</strong></h2>
+
+
+<ul>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/01%20insert.sql">Insert</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/02%20update.sql">Update</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/03%20delete.sql">Delete</a></li>
 
 </ul>
