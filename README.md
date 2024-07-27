@@ -49,5 +49,7 @@
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/01%20insert.sql">Insert</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/02%20update.sql">Update</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/03%20delete.sql">Delete</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/03%20delete.sql">create</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Comandos/03%20delete.sql">drop</a></li>
 
 </ul>
