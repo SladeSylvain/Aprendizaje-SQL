@@ -49,8 +49,8 @@
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Writing/01%20insert.sql">Insert</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Writing/02%20update.sql">Update</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Writing/03%20delete.sql">Delete</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Database/create.sql">create</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Database/drop.sql">drop</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Database/create.sql">Create</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Database/drop.sql">Drop</a></li>
 
 </ul>
 
@@ -60,8 +60,8 @@
 <ul>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/check.sql">Check</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/create%20table.sql">Create table</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/restrictions.sql">restictions</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/use.sql">use</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/restrictions.sql">Restictions</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/use.sql">Use</a></li>
 
 
 </ul>
