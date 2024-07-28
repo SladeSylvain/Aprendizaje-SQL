@@ -58,10 +58,10 @@
 
 
 <ul>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/check.sql">Insert</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/create%20table.sql">Update</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/notnull.sql">Delete</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/use.sql">create</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/check.sql">Check</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/create%20table.sql">Create table</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/restrictions.sql">restictions</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/use.sql">use</a></li>
 
 
 </ul>
