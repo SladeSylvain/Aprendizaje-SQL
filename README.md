@@ -65,3 +65,9 @@
 
 
 </ul>
+
+<h2 align="center"><strong>DIA 6</strong></h2>
+
+<ul>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/modify.sql">Modify</a></li>
+</ul>
