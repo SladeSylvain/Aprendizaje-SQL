@@ -71,3 +71,15 @@
 <ul>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/modify.sql">Modify</a></li>
 </ul>
+
+<h2 align="center"><strong>DIA 7</strong></h2>
+
+
+<ul>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Alter%20Table.sql">Alter Table</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Drop%20Table.sql">Drop Table</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Tipos%20De%20Tablas.sql">Tipos De Tablas</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Ejercicios.sql">Ejercicios</a></li>
+
+
+</ul>
