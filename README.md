@@ -76,9 +76,9 @@
 
 
 <ul>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Alter%20Table.sql">Alter Table</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Drop%20Table.sql">Drop Table</a></li>
-    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Tipos%20De%20Tablas.sql">Tipos De Tablas</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/alter%20table.sql">Alter Table</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/drop%20table.sql">Drop Table</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/tipos%20de%20tablas.sql">Tipos De Tablas</a></li>
     <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Tables/Ejercicios.sql">Ejercicios</a></li>
 
 
