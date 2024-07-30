@@ -83,3 +83,15 @@
 
 
 </ul>
+
+<h2 align="center"><strong>DIA 7</strong></h2>
+
+
+<ul align="center">
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Join/inner join.sql">Inner Join</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Join/left%20join.sql">Left Join</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Join/right%20join.sql">Right Join</a></li>
+    <li><a href="https://github.com/SladeSylvain/Aprendizaje-SQL/blob/main/Join/union.sql">Union</a></li>
+
+
+</ul>
