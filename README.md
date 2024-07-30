@@ -84,7 +84,7 @@
 
 </ul>
 
-<h2 align="center"><strong>DIA 7</strong></h2>
+<h2 align="center"><strong>DIA 8</strong></h2>
 
 
 <ul align="center">
